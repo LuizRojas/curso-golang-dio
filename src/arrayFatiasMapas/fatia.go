@@ -13,8 +13,11 @@ func main() {
 	// fatia := arr[0:7] // make([]float64, 5)
 	// fmt.Println(fatia)
 
-	fatia1 := []int{1, 2, 3}
-	fatia2 := make([]int, 1)
-	copy(fatia2, fatia1)
-	fmt.Println(fatia1, fatia2)
+	// fatia1 := []int{1, 2, 3}
+	// fatia2 := make([]int, 1)
+	// copy(fatia2, fatia1)
+	// fmt.Println(fatia1, fatia2)
+
+	fatia := make([]int, 3, 9)
+	fmt.Println(fatia)
 }
