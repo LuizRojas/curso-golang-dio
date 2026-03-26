@@ -1,0 +1,4 @@
+- Ato de fazer Progresso em mais de uma tarefa simultaneamente
+- Goroutines
+- Canais
+- Select
